@@ -1,5 +1,9 @@
 # ADM-HW4
 
+<p align="center">
+  <img src="https://github.com/MirkoLozzi/ADM-HW4/blob/main/picture.png" />
+</p>
+
 
 - Alessandro Quattrociocchi (1609286)
 - Mirko Lozzi (1613091) 
