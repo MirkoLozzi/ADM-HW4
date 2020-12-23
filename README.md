@@ -14,10 +14,10 @@ This allow you to focus on the analysis of the results and the organisation.
 There are also four ***.py*** files containing the code used to implement the algorithms and functions required.   
 In particular: 
 
-* '''hash_function''' contains the hash function used to implement the HLL. 
-* '''HLL contains''' the HyperLog algorithm.
-* '''global_cleaning''' contains all the functions required for cleaning text such as punctuation, stop words, stemming, some verbs and adverbs. 
-* '''K_Mean''' contains the algorithm for clustering. 
+* ```hash_function.py``` contains the hash function used to implement the HLL. 
+* ```HLL contains``` the HyperLog algorithm.
+* ```global_cleaning``` contains all the functions required for cleaning text such as punctuation, stop words, stemming, some verbs and adverbs. 
+* ```K_Mean``` contains the algorithm for clustering. 
 
 
 ### Useful Documentation and Data
