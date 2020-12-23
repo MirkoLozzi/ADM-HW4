@@ -8,10 +8,10 @@
 
 
 In this homework we have implemented two important algorithms from scratch: the first is HyperLogLog and the second is K-Mean. 
-Since these two algorithms required several functions and a few lines of code, we decided to organise the project in the following way:
-The final notebook contains only the results of the functions, some theoretical sections and explanations of the code. 
-This allow you to focus on the analysis of the results and the organisation.
-There are also four ***.py*** files containing the code used to implement the algorithms and functions required. 
+Since these two algorithms required several functions and a few lines of code, we decided to organise the project in the following way.  
+The final notebook contains only the results of the functions, some theoretical sections and explanations of the code.   
+This allow you to focus on the analysis of the results and the organisation.  
+There are also four ***.py*** files containing the code used to implement the algorithms and functions required.   
 In particular: 
 
 * hash_function contains the hash function used to implement the HLL. 
