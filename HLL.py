@@ -34,7 +34,6 @@ def get_bucket_size(e):
 def HyperLogLog(stream, error):
 
     m, k = get_bucket_size(error)
-    #m = 2**k
 
     M = np.zeros(m, 'd')
 
